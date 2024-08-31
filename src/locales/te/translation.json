@@ -1,0 +1,14 @@
+{
+  "search_movies": "సినిమాలను శోధించండి",
+  "view_details": "వివరాలు చూడండి",
+  "remove_from_watchlist": "వాచ్‌లిస్ట్ నుండి తీసివేయి",
+  "add_to_watchlist": "వాచ్‌లిస్ట్‌లో చేర్చు",
+  "movie_added_to_watchlist": "సినిమా మీ వాచ్‌లిస్ట్‌లో చేర్చబడింది.",
+  "movie_removed_from_watchlist": "సినిమా మీ వాచ్‌లిస్ట్ నుండి తీసివేయబడింది.",
+  "movie_language":"సినిమా-భాష",
+  "cast": "తారాగణం",
+  "release_date": " విడుదల తేదీ",
+  "no_movies_found": "చిత్రాలు కనబడలేదు",
+  "genre": "జానర్"
+  
+}

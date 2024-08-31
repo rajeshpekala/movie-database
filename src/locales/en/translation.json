@@ -1,0 +1,13 @@
+{
+  "search_movies": "Search Movies",
+  "view_details": "View Details",
+  "remove_from_watchlist": "Remove from Watchlist",
+  "add_to_watchlist": "Add to watchlist",
+  "movie_added_to_watchlist": "Movie added to your watchlist.",
+  "movie_removed_from_watchlist": "Movie removed from your watchlist.",
+  "movie_language":"Movie-Language",
+  "cast": "Cast",
+  "release_date": "Release Date",
+  "no_movies_found": "No Movies Found",
+  "genre":"Genre"
+}

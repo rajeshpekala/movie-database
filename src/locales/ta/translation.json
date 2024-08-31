@@ -1,0 +1,14 @@
+{
+    "search_movies": "படங்களை தேடு",
+    "view_details": "விவரங்களை பார்க்க",
+    "remove_from_watchlist": "வீடியோ பட்டியலிலிருந்து நீக்கு",
+    "add_to_watchlist": "வீடியோ பட்டியலில் சேர்க்க",
+    "movie_added_to_watchlist": "படம் உங்கள் வீடியோ பட்டியலில் சேர்க்கப்பட்டது.",
+    "movie_removed_from_watchlist": "படம் உங்கள் வீடியோ பட்டியலிலிருந்து நீக்கப்பட்டது.",
+    "movie_language": "பட மொழி",
+    "cast": "நடிகர்கள்",
+    "release_date": "வெளியீட்டு தேதி",
+    "no_movies_found": "படங்கள் இல்லை",
+    "genre": "வகை"
+  }
+  

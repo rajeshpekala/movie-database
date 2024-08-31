@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "title": "Bahubali",
+    "description": "It is a Telugu Film",
+    "releaseDate": "August 24",
+    "language": "Telugu",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+    "cast": [
+      {
+        "name": "Prabash",
+        "image": "https://i.pinimg.com/originals/d9/f0/88/d9f08864dc441c8a4a905dbc916f65cd.jpg"
+      },
+      {
+        "name": "Anushka",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI2MzkwNzg5M15BMl5BanBnXkFtZTgwMDk4MDAwNDE@._V1_.jpg"
+      }
+    ],
+    "genre": "Action"
+  },
+  {
+    "id": 2,
+    "title": "Bahubali-2",
+    "description": "It is a Telugu Film",
+    "releaseDate": "August 17",
+    "language": "Telugu",
+    "image": "https://origin-staticv2.sonyliv.com/0/bahubali_2_12dec_landscape_thumb.jpg",
+    "cast": [
+      {
+        "name": "Prabash",
+        "image": "https://i.pinimg.com/originals/d9/f0/88/d9f08864dc441c8a4a905dbc916f65cd.jpg"
+      },
+      {
+        "name": "Anushka",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI2MzkwNzg5M15BMl5BanBnXkFtZTgwMDk4MDAwNDE@._V1_.jpg"
+      }
+    ],
+    "genre": "Action"
+  },
+  {
+    "id": 3,
+    "title": "DeadPool",
+    "description": "It is an English Film",
+    "releaseDate": "August 17",
+    "language": "English",
+    "image": "https://miro.medium.com/v2/resize:fit:3840/1*1aDpEvq3NLpLkxu3kLtX_Q.jpeg",
+    "cast": [
+      {
+        "name": "Ryan Reynolds",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4NDNiZWEtODYyYi00OGVlLWE3YjYtODk1M2YxZjBjY2I3XkEyXkFqcGdeQWxpenpp._V1_QL75_UX500_CR0,0,500,281_.jpg"
+      },
+      {
+        "name": "Sara",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/249332_v9_bb.jpg"
+      }
+    ],
+    "genre": "Comedy"
+  },
+  {
+    "id": 4,
+    "title": "Raayan",
+    "description": "It is a Tamil Film",
+    "releaseDate": "August 27",
+    "language": "Tamil",
+    "image": "https://i.ytimg.com/vi/vi7KnL5hpFM/maxresdefault.jpg",
+    "cast": [
+      {
+        "name": "Dhanush",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5YjZlZjEtYzM1MC00ZmIwLWE0MzItNDcwOGYxYTJlMWNmXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg"
+      },
+      {
+        "name": "Anushka",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI2MzkwNzg5M15BMl5BanBnXkFtZTgwMDk4MDAwNDE@._V1_.jpg"
+      }
+    ],
+    "genre": "Drama"
+  },
+  {
+    "id": 5,
+    "title": "Indian 2",
+    "description": "It is a Tamil Film",
+    "releaseDate": "August 17",
+    "language": "Tamil",
+    "image": "https://i.ytimg.com/vi/Rg4_lKdky-Q/maxresdefault.jpg",
+    "cast": [
+      {
+        "name": "Kamal Hassan",
+        "image": "https://images.filmibeat.com/img/popcorn/profile_photos/kamal-haasan-20221107151916-330.jpg"
+      },
+      {
+        "name": "Priya Bhavani",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ks7zOIrj4x1FRxOT9tzcDQOhYkN0iXXP1Q&s"
+      }
+    ],
+    "genre": "Action"
+  },
+  {
+    "id": 6,
+    "title": "KGF Chapter 1",
+    "description": "It is a Kannada Film",
+    "releaseDate": "July 17",
+    "language": "Kannada",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/149ac783c0e32bfecd62d2d447b5c36d304d5a5afe30db4d701dc93dc8bba5b0.jpg",
+    "cast": [
+      {
+        "name": "Yash",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGJlOTljYmQtM2FkYS00YTEyLTliOGItOTA0MzBjZTI3ZDYyXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+      },
+      {
+        "name": "Riya",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/249332_v9_bb.jpg"
+      }
+    ],
+    "genre": "Action"
+  },
+  {
+    "id": 7,
+    "title": "Kantara",
+    "description": "It is a Kannada Film",
+    "releaseDate": "August 24",
+    "language": "Kannada",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RlNzZiMzktMGE1ZC00ODhiLWJhNWUtYjE4NmViNDU3OTRhXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+    "cast": [
+      {
+        "name": "Risabh Shetty",
+        "image": "https://images.filmibeat.com/img/popcorn/profile_photos/rishab-shetty-20221006101512-12681.jpg"
+      },
+      {
+        "name": "Anushka",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI2MzkwNzg5M15BMl5BanBnXkFtZTgwMDk4MDAwNDE@._V1_.jpg"
+      }
+    ],
+    "genre": "Drama"
+  },
+  {
+    "id": 8,
+    "title": "Shaithaan",
+    "description": "It is a Hindi Film",
+    "releaseDate": "August 17",
+    "language": "Hindi",
+    "image": "https://static.toiimg.com/thumb/msid-107108381,width-1280,height-720,resizemode-4/107108381.jpg",
+    "cast": [
+      {
+        "name": "Ajay Devgan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxValIigqyQG8FVn9bLc4y31ftha7G3sFnQ&s"
+      },
+      {
+        "name": "Jyothika",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMRarfTtLV6fJoao1GYwvdO1v430pgJRvzw&s"
+      }
+    ],
+    "genre": "Thriller"
+  },
+  {
+    "id": 9,
+    "title": "Brahmastra",
+    "description": "It is a Hindi Film",
+    "releaseDate": "August 17",
+    "language": "Hindi",
+    "image": "https://m.timesofindia.com/photo/88376664/size-210509/88376664.jpg",
+    "cast": [
+      {
+        "name": "Ranbir Kapoor",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk2ODU5Mjk2MV5BMl5BanBnXkFtZTcwODEzNDg3OA@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOl-Hv0wFdbCx7uoS97miynOw8JFFnZ9fcQ&s"
+      }
+    ],
+    "genre": "Fantasy"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "search_movies": "फिल्में खोजें",
+  "view_details": "विवरण देखें",
+  "remove_from_watchlist": "वॉचलिस्ट से हटाएँ",
+  "add_to_watchlist": "वॉचलिस्ट में जोड़ें",
+  "movie_added_to_watchlist": "फिल्म आपकी वॉचलिस्ट में जोड़ दी गई है।",
+  "movie_removed_from_watchlist": "फिल्म आपकी वॉचलिस्ट से हटा दी गई है।",
+  "movie_language":"फ़िल्म-भाषा",
+  "cast": "ढालना",
+  "release_date": "रिलीज़ की तारीख ",
+  "no_movies_found": "कोई फिल्में नहीं मिलीं",
+  "genre": "शैली"
+}

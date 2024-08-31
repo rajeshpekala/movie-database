@@ -1,0 +1,14 @@
+{
+    "search_movies": "ಚಿತ್ರಗಳನ್ನು ಹುಡುಕಿ",
+    "view_details": "ವಿವರಗಳನ್ನು ನೋಡಿ",
+    "remove_from_watchlist": "ವೀಕ್ಷಣೆ ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕಿ",
+    "add_to_watchlist": "ವೀಕ್ಷಣೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ",
+    "movie_added_to_watchlist": "ಚಿತ್ರವನ್ನು ನಿಮ್ಮ ವೀಕ್ಷಣೆ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ.",
+    "movie_removed_from_watchlist": "ಚಿತ್ರವನ್ನು ನಿಮ್ಮ ವೀಕ್ಷಣೆ ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ.",
+    "movie_language": "ಚಿತ್ರದ ಭಾಷೆ",
+    "cast": "ಕಾಸ್ಟ್",
+    "release_date": "ಮುಕ್ತ ದಿನಾಂಕ",
+    "no_movies_found": "ಯಾವುದೇ ಚಿತ್ರಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+    "genre": "ಪ್ರಕಾರ"
+  }
+  
