@@ -94,12 +94,12 @@ const MovieList: React.FC = () => {
         );
       }
 
-      if (selectedGenre) {
-        filtered = filtered.filter(
-          (movie) =>
-            movie.genre.toLowerCase() === selectedGenre.toLowerCase()
-        );
-      }
+      // if (selectedGenre) {
+      //   filtered = filtered.filter(
+      //     (movie) =>
+      //       movie.genre.toLowerCase() === selectedGenre.toLowerCase()
+      //   );
+      // }
 
       setFilteredMovies(filtered);
     };
@@ -171,7 +171,7 @@ const MovieList: React.FC = () => {
             </Select>
           </FormControl>
 
-          <FormControl sx={{ width: 200 }}>
+          {/* <FormControl sx={{ width: 200 }}>
             <InputLabel id="movie-genre-select-label">
               {t("genre")}
             </InputLabel>
@@ -189,7 +189,7 @@ const MovieList: React.FC = () => {
               <MenuItem value="Comedy">Comedy</MenuItem>
              
             </Select>
-          </FormControl>
+          </FormControl> */}
          
         </Box>
         
