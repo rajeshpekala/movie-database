@@ -6,9 +6,7 @@ import Header from "../../Header";
 const PostLogin = () => {
   const token = useSelector((state: RootState) => state.auth.token);
 
-  if (!token) {
-    return <Navigate to="/" />;
-  }
+ 
 
   return (
     <div>
